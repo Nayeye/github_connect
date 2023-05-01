@@ -41,3 +41,13 @@
             
       📌git hub에 올리기 
             ▪️ git push origin master
+
+
+### 수정하여 다시 업로드 할 때
+
+      ✒️ 기존의 코드를 다운 받는다
+          -> git pull origin master
+      
+      ✒️ 다시 push 해야한다
+          -> git push origin master
+                   
