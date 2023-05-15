@@ -50,4 +50,9 @@
       
       ✒️ 다시 push 해야한다
           -> git push origin master
+          
+### github 협업하는 방법
+
+      🍅 소스 다운로드
+          -> git clone [다운받고 싶은 코드 https 복사 붙여넣기]
                    
