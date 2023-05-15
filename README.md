@@ -53,6 +53,17 @@
           
 ### github 협업하는 방법
 
+      ####사원입장에서
       🍅 소스 다운로드
           -> git clone [다운받고 싶은 코드 https 복사 붙여넣기]
+      
+      🍅 브랜치 만들기
+          -> git checkout -b KIM /git check -b 자신을 지칭할 단어
+             git add .
+             git commit -m "메세지 할 것"
+             git push origin KIM / git push origin 브랜치 이름
+             
+![image](https://github.com/Nayeye/github_connect/assets/129706765/c5aca636-2c1b-4729-b8b1-80751d15e291)
+
+          
                    
